@@ -1,3 +1,3 @@
 Ruby Sample programms.
 
-This project contains the small ruby programs thet are created while studing the language from a book.
+This project contains small ruby programs that are created while studying the language from a book.
